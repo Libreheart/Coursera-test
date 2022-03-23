@@ -1,0 +1,29 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title color="blue">Let's begin!!</title>
+</head>
+<style>
+	header{
+		background-color: #00FFFF;
+		color: black;
+		font-style: italic;
+		font-weight: bold;
+	}
+	div{
+	background-color: ghostwhite;
+	}
+	p{
+		color: gold;
+	}
+</style>
+<body>
+<div>
+	<p>good good study!</p>
+</div>
+<div>
+	<p>day day up!</p>
+</div>
+</body>
